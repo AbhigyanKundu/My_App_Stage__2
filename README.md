@@ -1,2 +1,2 @@
-# My_App_Stage__2
-I am making my app version 2
+# p5.play-boilerplate
+Boiler plate for p5.play
